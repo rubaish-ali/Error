@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo-01 {
+    width: 50px;
+    border-radius: 100%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.img-01 {
+    width: 15px;
+}
+
+.Navbar {
+    display: flex;
+    align-items: center;
+}
+
+.anchor {
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
+    gap: 10px;
+    border-right: 1px solid black;
+    height: 40px;
+}
+
+.img-02 {
+    width: 20px;
+}
+
+.img-03 {
+    width: 50px;
+}
+
+.para-01 {
+    font-family: sans-serif;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    border-right: 1px solid
+}
+
+#icon {
+    margin-left: 700px;
+}
+
+#icon-01 {
+    margin-left: 10px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.no-internet {
+    width: 300px;
+    height: 100px;
+}
+
+#img {
+    margin-top: 20px;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    margin-left: 5px;
+}
+
+.John-smith {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.para-02 {
+    font-family: sans-serif;
+    padding-top: 10px;
+    padding-left: 40px;
+}
